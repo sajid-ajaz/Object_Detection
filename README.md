@@ -3,7 +3,7 @@
 
 object detection using transfer learning.
 
-model mobilenet_v2
+I have used ssd+ mobilenet_v2 for object detection
 **********************
 
 data used here is imagenet
